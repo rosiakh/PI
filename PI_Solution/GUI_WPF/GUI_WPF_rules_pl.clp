@@ -37,34 +37,34 @@
    (id G_conclusion_1)
    (text "Antybiotykoterapia:
 	
-	-(flu)kloksacylina lub oksacylina przez 4-6 tyg.
+	-(flu)kloksacylina lub oksacylina i.v. przez 4-6 tyg.
 	+
-	-gentamycyna przez 3-5 dni"))
+	-gentamycyna i.v. lub i.m. przez 3-5 dni"))
 (text-for-id 
    (id G_conclusion_2)
    (text "Antybiotykoterapia:
 	
-	-wankomycyna przez 4-6 tyg.
+	-wankomycyna i.v. przez 4-6 tyg.
 	+
-	-gentamycyna przez 3-5 dni"))
+	-gentamycyna i.v. lub i.m. przez 3-5 dni"))
 (text-for-id 
    (id G_conclusion_3)
    (text "Antybiotykoterapia:
 	
-	-(flu)kloksacylina lub oksacylina przez >= 6 tyg.
+	-(flu)kloksacylina lub oksacylina i.v. przez >= 6 tyg.
 	+
-	-ryfampicyna przez >= 6 tyg.
+	-ryfampicyna i.v. lub p.o. przez >= 6 tyg.
 	+
-	-gentamycyna przez 2 tyg."))
+	-gentamycyna i.v. lub i.m. przez 2 tyg."))
 (text-for-id 
    (id G_conclusion_4)
    (text "Antybiotykoterapia:
 	
-	-wankomycyna przez >= 6 tyg.
+	-wankomycyna i.v. przez >= 6 tyg.
 	+
-	-ryfampicyna przez 6 tyg.
+	-ryfampicyna i.v. lub p.o. przez 6 tyg.
 	+
-	-gentamycyna przez 2 tyg."))
+	-gentamycyna i.v. lub i.m. przez 2 tyg."))
 
 (text-for-id 
    (id P_czy_pelna_wrazliwosc_na_penicyline)
@@ -79,45 +79,45 @@
    (id P_conclusion_1)
    (text "Antybiotykoterapia: leczenie standardowe (4 tyg.)
 	
-	-penicylina G 
+	-penicylina G i.v.
 	lub
-	-amoksycylina 
+	-amoksycylina i.v.
 	lub
-	-ceftriakson"))
+	-ceftriakson i.v. lub i.m."))
 (text-for-id 
    (id P_conclusion_2)
    (text "Antybiotykoterapia: leczenie krotsze (2 tyg.)
 	
-	-penicylina G 
+	-penicylina G i.v. 
 	lub
-	-amoksycylina 
+	-amoksycylina i.v.
 	lub
-	-ceftriakson
+	-ceftriakson i.v. lub i.m.
 	+
-	-gentamycyna 
+	-gentamycyna i.v. lub i.m.
 	lub
-	-netylmycyna"))
+	-netylmycyna i.v."))
 (text-for-id 
    (id P_conclusion_3)
    (text "Antybiotykoterapia: 
 	
-	-wankomycyna przez 4 tyg."))
+	-wankomycyna i.v. przez 4 tyg."))
 (text-for-id 
    (id P_conclusion_4)
    (text "Antybiotykoterapia:
 	
-	-penicylina G przez 4 tyg. 
+	-penicylina G i.v. przez 4 tyg. 
 	lub
-	-amoksycylina przez 4 tyg.
+	-amoksycylina i.v. przez 4 tyg.
 	+
-	-gentamycyna przez 2 tyg."))
+	-gentamycyna i.v. lub i.m. przez 2 tyg."))
 (text-for-id 
    (id P_conclusion_5)
    (text "Antybiotykoterapia: 
 	
-	-wankomycyna przez 4 tyg.
+	-wankomycyna i.v. przez 4 tyg.
 	+
-	-gentamycyna przez 2 tyg."))
+	-gentamycyna i.v. lub i.m. przez 2 tyg."))
 
 (text-for-id 
    (id N_czy_proteza)
@@ -132,29 +132,29 @@
    (id N_conclusion_1)
    (text "Antybiotykoterapia:
 	
-	-ampicylina z sulbaktamem przez 4-6 tyg. 
+	-ampicylina z sulbaktamem i.v. przez 4-6 tyg. 
 	lub
-	-amoksycylina z klawulanianem przez 4-6 tyg.
+	-amoksycylina z klawulanianem i.v. przez 4-6 tyg.
 	+
-	-gentamycyna przez 4-6 tyg."))
+	-gentamycyna i.v. lub i.m. przez 4-6 tyg."))
 (text-for-id 
    (id N_conclusion_2)
    (text "Antybiotykoterapia:
 	
-	-wankomycyna przez 4-6 tyg.
+	-wankomycyna i.v. przez 4-6 tyg.
 	+
-	-gentamycyna przez 4-6 tyg.
+	-gentamycyna i.v. lub i.m. przez 4-6 tyg.
 	+
-	-cyproflaksacyna przez 4-6 tyg."))
+	-cyproflaksacyna i.v. przez 4-6 tyg."))
 (text-for-id 
    (id N_conclusion_3)
    (text "Antybiotykoterapia:
 	
-	-wankomycyna przez 6 tyg.
+	-wankomycyna i.v. przez 6 tyg.
 	+
-	-gentamycyna przez 2 tyg.
+	-gentamycyna i.v. lub i.m. przez 2 tyg.
 	+
-	-ryfampicyna"))
+	-ryfampicyna p.o."))
 (text-for-id 
    (id N_conclusion_4)
    (text "Jak w IZW zastawki własnej"))

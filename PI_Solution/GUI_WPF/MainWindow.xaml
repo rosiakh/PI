@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GUI_WPF"
         mc:Ignorable="d"
-        Title="CLIPS Diagnostics" Height="200" Width="350" Loaded="OnLoad" ResizeMode="CanMinimize">
+        Title="CLIPS Diagnostics" Height="200" Width="350" Loaded="OnLoad" ResizeMode="CanResize">
     <Grid>
         <Grid x:Name="myGrid" Margin="0" RenderTransformOrigin="0.441,0.401">
             <Grid.RowDefinitions>
