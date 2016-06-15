@@ -1,0 +1,75 @@
+﻿<Window x:Class="GUI_WPF.DosageWindow3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="IZW wywołane przez gronkowce" Height="250" Width="900">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="235"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Antybiotyk" 
+                FontSize="15" FontWeight="Bold"
+                Foreground="Blue"
+                Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="5"/>
+
+        <Label Content="Dawkowanie dzieci" 
+                FontSize="15" FontWeight="Bold"
+                Foreground="Blue"
+                Grid.Column="2" Grid.Row="0" Grid.ColumnSpan="5"/>
+
+        <Label Content="Dawkowanie dorośli" 
+                FontSize="15" FontWeight="Bold"
+                Foreground="Blue"
+                Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="5"/>
+
+
+        <Label Content="(flu)kloksacylina lub oksacylina" FontSize="15" FontWeight="Bold" 
+                Grid.Column="0" Grid.Row="1"/>
+
+        <Label Content="12 g/d w 4-6 dawkach podzielonych" FontSize="15" FontWeight="Bold" 
+                Grid.Column="1" Grid.Row="1"/>
+
+        <Label Content="200 mg/kg/d w 4-6 dawkach podzielonych" FontSize="15" FontWeight="Bold" 
+                Grid.Column="2" Grid.Row="1"/>
+
+        <Label Content="gentamycyna" FontSize="15" FontWeight="Bold"
+                Grid.Column="0" Grid.Row="2"/>
+
+
+        <Label Content="3 mg/kg/d w 2 lub 3 dawkach podzielonych" FontSize="15" FontWeight="Bold"
+                Grid.Column="1" Grid.Row="2"/>
+
+        <Label Content="3 mg/kg/d w 3 dawkach podzielonych" FontSize="15" FontWeight="Bold" 
+                Grid.Column="2" Grid.Row="2"/>
+
+        <Label Content="ryfampicyna" FontSize="15" FontWeight="Bold" 
+                Grid.Column="0" Grid.Row="3"/>
+
+        <Label Content="1200 mg/d w 2 dawkach podzielonych" FontSize="15" FontWeight="Bold" 
+                Grid.Column="1" Grid.Row="3"/>
+
+        <Label Content="20 mg/kg/d 3 dawkach podzielonych" FontSize="15" FontWeight="Bold" 
+                Grid.Column="2" Grid.Row="3"/>
+
+        <Label Content="wankomycyna" FontSize="15" FontWeight="Bold"
+                Grid.Column="0" Grid.Row="4"/>
+
+
+        <Label Content="30 mg/kg/d w 2 dawkach podzielonych" FontSize="15" FontWeight="Bold"
+                Grid.Column="1" Grid.Row="4"/>
+
+        <Label Content="40 mg/kg/d w 2 lub 3 dawkach podzielonych" FontSize="15" FontWeight="Bold"
+                Grid.Column="2" Grid.Row="4"/>
+    </Grid>
+</Window>
